@@ -11,3 +11,5 @@
   3. 小隊長評鑑隊員表現
   4. 檢視隊員出缺勤狀況
   5. 刪除帳號
+
+demo影片：https://www.youtube.com/watch?v=ohU1rAz6c5M
